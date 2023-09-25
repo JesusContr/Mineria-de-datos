@@ -1,1 +1,1 @@
-# InteligenciaArtificial
+# Mineria de datos
